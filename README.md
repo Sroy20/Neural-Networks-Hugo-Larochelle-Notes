@@ -1,1 +1,5 @@
-# Neural-Networks-Hugo-Larochelle-Notes
+# Conditional Random Fields
+
+## Motivation
+
+1.
